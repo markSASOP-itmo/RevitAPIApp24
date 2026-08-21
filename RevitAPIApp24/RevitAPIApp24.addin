@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type ="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPIApp24.dll</Assembly>
+		<AddInId>55DA2CD0-9DCC-4030-B661-4F72B0528379</AddInId>
+		<FullClassName>RevitAPIApp24.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Подсчёт стен на 1 и 2 этажах</Text>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+	</AddIn>
+</RevitAddIns>
